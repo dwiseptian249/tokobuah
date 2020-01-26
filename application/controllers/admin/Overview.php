@@ -12,4 +12,8 @@ class Overview extends CI_Controller {
         // load view <admin>
         $this->load->view("admin/overview");
     }
+
+    public function abc() {
+        echo base_url();
+    }
 }
