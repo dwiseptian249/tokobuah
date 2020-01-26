@@ -11,9 +11,10 @@
         <link href="<?php echo base_url(); ?>css/bootstrap.min.css" rel="stylesheet" />
         <link href="<?php echo base_url(); ?>css/bootstrap-grid.css" rel="stylesheet" />
         <link href="<?php echo base_url(); ?>css/bootstrap-grid.min.css" rel="stylesheet" />
-        <link href="<?php echo base_url(); ?>css/bootstrap-reboot.css" rel="styleshett" />
-        <link href="<?php echo base_url(); ?>css/bootstrap-reboot.min.css" rel="styleshett" />
-
+        <link href="<?php echo base_url(); ?>css/bootstrap-reboot.css" rel="stylesheet" />
+        <link href="<?php echo base_url(); ?>css/bootstrap-reboot.min.css" rel="stylesheet" />
+        <link href="<?php echo base_url(); ?>css/sb-admin.css" rel="stylesheet" />
+        <link href="<?php echo base_url(); ?>assets/fontawesome-free/css/all.min.css" rel="stylesheet" />
        
     </head>
     <body class="sb-nav-fixed">
@@ -684,5 +685,6 @@
         <script src= "<?php echo base_url(); ?>js/bootstrap.bundle.min.js"></script>
         <script src= "<?php echo base_url(); ?>js/bootstrap.js"></script>
         <script src= "<?php echo base_url(); ?>js/bootstrap.min.js"></script>
+        <script src= "<?php echo base_url(); ?>js/sb-admin.min.js"></script>
     </body>
 </html>
